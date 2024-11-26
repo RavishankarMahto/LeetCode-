@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public static int[] twoSum(int[] nums, int target) {
         // Create a HashMap to store numbers and their indices
         Map<Integer, Integer> numToIndex = new HashMap<>();
