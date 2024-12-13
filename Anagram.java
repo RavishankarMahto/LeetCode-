@@ -1,5 +1,5 @@
 import java.util.*;
-
+                                         // coding ninja
 public class Anagram {
     public static void main(String[] args) {
         anagram("ABC", "");
