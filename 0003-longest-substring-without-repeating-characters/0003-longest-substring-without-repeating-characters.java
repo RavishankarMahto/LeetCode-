@@ -31,7 +31,7 @@ class Solution {
 
         // Test case 1
         String s1 = "abcabcbb";
-        System.out.println("Input: " + s1);
+        Syshttps://leetcode.com/problems/longest-substring-without-repeating-characters/discuss/tem.out.println("Input: " + s1);
         System.out.println("Output: " + solution.lengthOfLongestSubstring(s1)); // Output: 3
 
         // Test case 2
